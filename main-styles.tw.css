@@ -555,6 +555,10 @@ video {
   margin-top: -50px;
 }
 
+.mt-6 {
+  margin-top: 1.5rem;
+}
+
 .block {
   display: block;
 }
@@ -599,8 +603,8 @@ video {
   width: 100%;
 }
 
-.min-w-\[300px\] {
-  min-width: 300px;
+.max-w-\[500px\] {
+  max-width: 500px;
 }
 
 .grow {
